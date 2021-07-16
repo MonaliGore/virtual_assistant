@@ -1,4 +1,3 @@
-# virtual_assistant
 Virtual Desktop Assistant:
 The project whose goal is to learn machine learning and artificial intelligence technology by implementing python script in This (Virtual Assistant) project.
 
